@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: seung-url-shortener
+  profiles:
+    active: dev
